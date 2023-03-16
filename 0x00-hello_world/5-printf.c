@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - Entry point 
+ * main - Printf Program
  *
  * Return: 0 (Success)
  */
