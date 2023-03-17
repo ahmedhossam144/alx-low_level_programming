@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *
  * main - If condition.
  *
  * Return: Always 0 (Success)
