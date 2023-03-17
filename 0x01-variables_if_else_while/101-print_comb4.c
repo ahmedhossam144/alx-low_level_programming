@@ -5,7 +5,6 @@
  *
  * Return: 0 (Success)
  */
-
 int main(void)
 {
 	int i = 48, m = 49, n = 49, t = 50, y = 50, u = 50;
