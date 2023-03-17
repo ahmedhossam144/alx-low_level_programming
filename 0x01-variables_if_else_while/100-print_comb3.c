@@ -18,6 +18,7 @@ int main(void)
 			putchar(m);
 			if (i == 56 && m == 57)
 			{
+				putchar(32);
 				break;
 			}
 			putchar(44);
