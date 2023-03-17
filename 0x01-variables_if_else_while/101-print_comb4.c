@@ -8,12 +8,12 @@
 
 int main(void)
 {
-        int i = 48, m = 49, n = 49, t = 50, y = 50, u = 50;
-
-        while (i < 58)
-        {
-                for (m = n; m < 58; m++)
-                {
+	int i = 48, m = 49, n = 49, t = 50, y = 50, u = 50;
+	
+	while (i < 58)
+	{
+		for (m = n; m < 58; m++)
+		{
 			for (t = y; t < 58; t++)
 			{
 				putchar(i);
@@ -27,12 +27,12 @@ int main(void)
 				putchar(32);
 			}
 			y = y + 1;
-                }
-                i = i + 1;
-                n = n + 1;
+		}
+		i = i + 1;
+		n = n + 1;
 		u = u + 1;
 		y = u;
-        }
-        putchar(10);
-        return (0);
+	}
+	putchar(10);
+	return (0);
 }
