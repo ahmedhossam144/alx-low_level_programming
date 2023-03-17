@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  *
- * main - If condition
+ * main - If condition.
  *
  * Return: Always 0 (Success)
  */
