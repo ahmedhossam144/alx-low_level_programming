@@ -1,7 +1,8 @@
 #include "main.h"
+
 /**
  * main - Printing _putchar
- * is written by mbah
+ * is wriiten by ahmed hossam
  * Return: 0
  */
 
