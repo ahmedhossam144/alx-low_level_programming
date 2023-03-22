@@ -2,7 +2,7 @@
 
 /**
  * _islower - check if char is lowercase
- * made by ahmed hossam 
+ * @c: see if c is lower. 
  * Return: 1 if true and 0 if false.
  */
 
